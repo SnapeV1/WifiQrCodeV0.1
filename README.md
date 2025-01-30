@@ -10,7 +10,7 @@
 
 ## Description
 
-**WifiQrCodeV1.0** is a user-friendly application that generates a QR code for your WiFi network. This QR code can be scanned by smartphones or other devices to easily connect to your WiFi network without the need to manually input the password. Simply run the app, input your WiFi network name (SSID) and password, and it will create a QR code ready to share.
+**WifiQrCodeV1.0** is a user-friendly application that generates a QR code for your WiFi network. This QR code can be scanned by smartphones or other devices to easily connect to your WiFi network without the need to manually input the password. Simply run the app, choose the network, and create a QR code ready to share.
 
 ---
 
